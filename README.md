@@ -7,4 +7,4 @@
 
 <a name="welcome"></a>
 ## &nbsp; Welcome everybody!
-Explore my personal site and let me know what you think about it!
+Explore my personal site and let me know what do you think about it!
